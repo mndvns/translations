@@ -249,3 +249,22 @@ languages:
   zh-tw: "Chinese (Traditional)"
   zh: "Chinese"
   zu: "Zulu"
+notifications:
+  add_billing_and_plan:
+    title: "Pick a plan and add your billing info to enable your RSS feed to distribute your show"
+    body: "You need to add billing before you can publish or distribute your Show"
+  create_and_publish:
+    title: "Publish an episode"
+    body: "In order to submit and publish your Show, you must first add an episode"
+  customize_site:
+    title: "Customize your Simplecast site"
+    body: "Give your site some personality by making changes to your theme in site settings"
+  distribute:
+    title: "Distribute your show"
+    body: "Find your RSS feed, add links to services where people can listen to your show and submit to new services!"
+  submit_to_services:
+    title: "Submit your show"
+    body: "To make your show ready for the world, you should start by submitting your Podcast to Apple Podcasts and other services"
+  view_knowledge_base_and_blog:
+    title: "Learn more with our Knowledge Base and Blog"
+    body: "Want some help understanding how to use Simplecast? Check out the Knowledge Base. Trying to pick up some tips and tricks to make your show stand out? Read our articles from the Simplecast Blog"
